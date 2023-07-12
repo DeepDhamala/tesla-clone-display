@@ -1,6 +1,6 @@
 import { ThemeProvider } from "@mui/system";
 import "./App.css";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
 import TeslaNavBar from "./components/navbar/navbar";
 import theme from "./theme";
 import Each from "./components/eachmodel/Each";
